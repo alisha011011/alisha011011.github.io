@@ -1,0 +1,54 @@
++++
+author = ""
+title = "Python Dates"
+date = "2021-5-15"
+tags = [
+    "python",
+]
+image = "images/bloglist/python_logo.png"
++++
+
+Date operations. 
+<!--more-->
+
+---
+
+
+<br>Common functions and methods for dates ...
+
+#### Print function 
+
+###### <i>Example:</i>
+
+<div class="code">
+
+Name = 'Nina'   #define variable & assign a string value.
+Address =  'Hollyhock Cottage'    #define variable & assign a string value.
+print(Name,"resides at",Address)     #outputs each parameter separated by a space. 
+
+</div>
+
+<div class="result">
+
+Nina resides at Hollyhock Cottage
+
+</div>
+
+##### Sep parameter in print function 
+
+###### <i>Example:</i>
+
+<div class="code">
+
+#for formatting a date
+print('09','12','2016', sep='-') 
+
+</div>
+
+<div class="result">
+
+Nina resides at Hollyhock Cottage.
+
+</div>
+
+

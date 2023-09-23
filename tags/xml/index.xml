@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>xml on Coding &amp; metadata projects</title><link>https://alisha.dev/tags/xml/</link><description>Recent content in xml on Coding &amp; metadata projects</description><generator>Hugo -- gohugo.io</generator><language>en</language><copyright>This website is licensed under [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/)</copyright><lastBuildDate>Sat, 10 Jul 2021 00:00:00 +0000</lastBuildDate><atom:link href="https://alisha.dev/tags/xml/index.xml" rel="self" type="application/rss+xml"/><item><title>Python RegEx Project</title><link>https://alisha.dev/blog/python_marctxt/</link><pubDate>Sat, 10 Jul 2021 00:00:00 +0000</pubDate><guid>https://alisha.dev/blog/python_marctxt/</guid><description/></item><item><title>Python Excel Project</title><link>https://alisha.dev/blog/python_excel/</link><pubDate>Sat, 03 Jul 2021 00:00:00 +0000</pubDate><guid>https://alisha.dev/blog/python_excel/</guid><description/></item><item><title>Python XML</title><link>https://alisha.dev/blog/python_xml/</link><pubDate>Sat, 19 Jun 2021 00:00:00 +0000</pubDate><guid>https://alisha.dev/blog/python_xml/</guid><description>&lt;style>
+.code {
+background-color:#404040;
+color:white;
+font-family:Consolas;
+font-size:1.1em;
+font-weight:500;
+padding:10px 10px;
+margin-bottom:20px;
+}
+.result {
+background-color:#000051;
+color:white;
+font-family:Consolas;
+font-size:1.1em;
+font-weight:500;
+padding:10px 10px;
+margin-bottom:20px;
+}
+&lt;/style></description></item></channel></rss>

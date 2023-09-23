@@ -1,0 +1,3 @@
+color=['red','blue','orange','pink']
+print(*color, sep = ", ")  
+print(*color, sep = "\n") 

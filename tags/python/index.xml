@@ -1,0 +1,190 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>python on Coding &amp; metadata projects</title><link>https://alisha.dev/tags/python/</link><description>Recent content in python on Coding &amp; metadata projects</description><generator>Hugo -- gohugo.io</generator><language>en</language><copyright>This website is licensed under [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/)</copyright><lastBuildDate>Sun, 15 Aug 2021 00:00:00 +0000</lastBuildDate><atom:link href="https://alisha.dev/tags/python/index.xml" rel="self" type="application/rss+xml"/><item><title>Python Selenium project</title><link>https://alisha.dev/blog/python_selenium/</link><pubDate>Sun, 15 Aug 2021 00:00:00 +0000</pubDate><guid>https://alisha.dev/blog/python_selenium/</guid><description/></item><item><title>Python Excel module</title><link>https://alisha.dev/blog/python_excel_module/</link><pubDate>Sat, 14 Aug 2021 00:00:00 +0000</pubDate><guid>https://alisha.dev/blog/python_excel_module/</guid><description/></item><item><title>Python RegEx Project</title><link>https://alisha.dev/blog/python_marctxt/</link><pubDate>Sat, 10 Jul 2021 00:00:00 +0000</pubDate><guid>https://alisha.dev/blog/python_marctxt/</guid><description/></item><item><title>Python Excel Project</title><link>https://alisha.dev/blog/python_excel/</link><pubDate>Sat, 03 Jul 2021 00:00:00 +0000</pubDate><guid>https://alisha.dev/blog/python_excel/</guid><description/></item><item><title>Basic Python JSON</title><link>https://alisha.dev/blog/python_json/</link><pubDate>Sun, 20 Jun 2021 00:00:00 +0000</pubDate><guid>https://alisha.dev/blog/python_json/</guid><description>&lt;style>
+.code {
+background-color:#404040;
+color:white;
+font-family:Consolas;
+font-size:1.1em;
+font-weight:500;
+padding:10px 10px;
+margin-bottom:20px;
+}
+.result {
+background-color:#000051;
+color:white;
+font-family:Consolas;
+font-size:1.1em;
+font-weight:500;
+padding:10px 10px;
+margin-bottom:20px;
+}
+&lt;/style></description></item><item><title>Python XML</title><link>https://alisha.dev/blog/python_xml/</link><pubDate>Sat, 19 Jun 2021 00:00:00 +0000</pubDate><guid>https://alisha.dev/blog/python_xml/</guid><description>&lt;style>
+.code {
+background-color:#404040;
+color:white;
+font-family:Consolas;
+font-size:1.1em;
+font-weight:500;
+padding:10px 10px;
+margin-bottom:20px;
+}
+.result {
+background-color:#000051;
+color:white;
+font-family:Consolas;
+font-size:1.1em;
+font-weight:500;
+padding:10px 10px;
+margin-bottom:20px;
+}
+&lt;/style></description></item><item><title>Basic Python Files</title><link>https://alisha.dev/blog/python_files/</link><pubDate>Fri, 18 Jun 2021 00:00:00 +0000</pubDate><guid>https://alisha.dev/blog/python_files/</guid><description>&lt;style>
+.code {
+background-color:#404040;
+color:white;
+font-family:Consolas;
+font-size:1.1em;
+font-weight:500;
+padding:10px 10px;
+margin-bottom:20px;
+}
+.result {
+background-color:#000051;
+color:white;
+font-family:Consolas;
+font-size:1.1em;
+font-weight:500;
+padding:10px 10px;
+margin-bottom:20px;
+}
+&lt;/style></description></item><item><title>Basic Python Loops</title><link>https://alisha.dev/blog/python_loops/</link><pubDate>Sat, 05 Jun 2021 00:00:00 +0000</pubDate><guid>https://alisha.dev/blog/python_loops/</guid><description>&lt;style>
+.code {
+background-color:#404040;
+color:white;
+font-family:Consolas;
+font-size:1.1em;
+font-weight:500;
+padding:10px 10px;
+margin-bottom:20px;
+}
+.result {
+background-color:#000051;
+color:white;
+font-family:Consolas;
+font-size:1.1em;
+font-weight:500;
+padding:10px 10px;
+margin-bottom:20px;
+}
+&lt;/style></description></item><item><title>Basic Python Lists, Tuples, Sets</title><link>https://alisha.dev/blog/python_lists/</link><pubDate>Tue, 01 Jun 2021 00:00:00 +0000</pubDate><guid>https://alisha.dev/blog/python_lists/</guid><description>&lt;style>
+.code {
+background-color:#404040;
+color:white;
+font-family:Consolas;
+font-size:1.1em;
+font-weight:500;
+padding:10px 10px;
+margin-bottom:20px;
+}
+.result {
+background-color:#000051;
+color:white;
+font-family:Consolas;
+font-size:1.1em;
+font-weight:500;
+padding:10px 10px;
+margin-bottom:20px;
+}
+&lt;/style></description></item><item><title>Defining Python Functions</title><link>https://alisha.dev/blog/python_def/</link><pubDate>Fri, 28 May 2021 00:00:00 +0000</pubDate><guid>https://alisha.dev/blog/python_def/</guid><description>&lt;style>
+.code {
+background-color:#404040;
+color:white;
+font-family:Consolas;
+font-size:1.1em;
+font-weight:500;
+padding:10px 10px;
+margin-bottom:20px;
+}
+.result {
+background-color:#000051;
+color:white;
+font-family:Consolas;
+font-size:1.1em;
+font-weight:500;
+padding:10px 10px;
+margin-bottom:20px;
+}
+&lt;/style></description></item><item><title>Basic Python Strings</title><link>https://alisha.dev/blog/python_strings/</link><pubDate>Thu, 15 Apr 2021 00:00:00 +0000</pubDate><guid>https://alisha.dev/blog/python_strings/</guid><description>&lt;style>
+.code {
+background-color:#404040;
+color:white;
+font-family:Consolas;
+font-size:1.1em;
+font-weight:500;
+padding:10px 10px;
+margin-bottom:20px;
+}
+.result {
+background-color:#000051;
+color:white;
+font-family:Consolas;
+font-size:1.1em;
+font-weight:500;
+padding:10px 10px;
+margin-bottom:20px;
+}
+&lt;/style></description></item><item><title>Defining Python Variables</title><link>https://alisha.dev/blog/python_variables/</link><pubDate>Sun, 11 Apr 2021 00:00:00 +0000</pubDate><guid>https://alisha.dev/blog/python_variables/</guid><description>&lt;style>
+.code {
+background-color:#404040;
+color:white;
+font-family:Consolas;
+font-size:1.1em;
+font-weight:500;
+padding:10px 10px;
+margin-bottom:20px;
+}
+.result {
+background-color:#000051;
+color:white;
+font-family:Consolas;
+font-size:1.1em;
+font-weight:500;
+padding:10px 10px;
+margin-bottom:20px;
+}
+&lt;/style></description></item><item><title>Python Dates/Times</title><link>https://alisha.dev/blog/python_datetime/</link><pubDate>Sat, 10 Apr 2021 00:00:00 +0000</pubDate><guid>https://alisha.dev/blog/python_datetime/</guid><description>&lt;style>
+.code {
+background-color:#404040;
+color:white;
+font-family:Consolas;
+font-size:1.1em;
+font-weight:500;
+padding:10px 10px;
+margin-bottom:20px;
+}
+.result {
+background-color:#000051;
+color:white;
+font-family:Consolas;
+font-size:1.1em;
+font-weight:500;
+padding:10px 10px;
+}
+&lt;/style></description></item><item><title>Python Built-In Data Types</title><link>https://alisha.dev/blog/python_datatypes/</link><pubDate>Thu, 08 Apr 2021 00:00:00 +0000</pubDate><guid>https://alisha.dev/blog/python_datatypes/</guid><description>&lt;style>
+.code {
+background-color:#404040;
+color:white;
+font-family:Consolas;
+font-size:1.1em;
+font-weight:500;
+padding:10px 10px;
+margin-bottom:20px;
+}
+.result {
+background-color:#000051;
+color:white;
+font-family:Consolas;
+font-size:1.1em;
+font-weight:500;
+padding:10px 10px;
+margin-bottom:20px;
+}
+&lt;/style></description></item><item><title>Installing Python on Windows</title><link>https://alisha.dev/blog/install_python/</link><pubDate>Wed, 07 Apr 2021 00:00:00 +0000</pubDate><guid>https://alisha.dev/blog/install_python/</guid><description/></item></channel></rss>

@@ -1,0 +1,209 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Coding &amp; metadata projects</title><link>https://alisha.dev/</link><description>Recent content on Coding &amp; metadata projects</description><generator>Hugo -- gohugo.io</generator><language>en</language><copyright>This website is licensed under [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/)</copyright><lastBuildDate>Sun, 15 Aug 2021 00:00:00 +0000</lastBuildDate><atom:link href="https://alisha.dev/index.xml" rel="self" type="application/rss+xml"/><item><title>Python Selenium project</title><link>https://alisha.dev/blog/python_selenium/</link><pubDate>Sun, 15 Aug 2021 00:00:00 +0000</pubDate><guid>https://alisha.dev/blog/python_selenium/</guid><description/></item><item><title>Python Excel module</title><link>https://alisha.dev/blog/python_excel_module/</link><pubDate>Sat, 14 Aug 2021 00:00:00 +0000</pubDate><guid>https://alisha.dev/blog/python_excel_module/</guid><description/></item><item><title>Install a Windows Virtual Machine</title><link>https://alisha.dev/blog/install_vm/</link><pubDate>Wed, 28 Jul 2021 00:00:00 +0000</pubDate><guid>https://alisha.dev/blog/install_vm/</guid><description/></item><item><title>Azure Computer Vision</title><link>https://alisha.dev/blog/azure_compvision/</link><pubDate>Tue, 27 Jul 2021 00:00:00 +0000</pubDate><guid>https://alisha.dev/blog/azure_compvision/</guid><description/></item><item><title>Create an Apache Jena triplestore</title><link>https://alisha.dev/blog/apache_jena/</link><pubDate>Mon, 26 Jul 2021 00:00:00 +0000</pubDate><guid>https://alisha.dev/blog/apache_jena/</guid><description/></item><item><title>Connect to and query an Azure NoSQL graph database</title><link>https://alisha.dev/blog/azure_nosql_graph_query/</link><pubDate>Fri, 23 Jul 2021 00:00:00 +0000</pubDate><guid>https://alisha.dev/blog/azure_nosql_graph_query/</guid><description/></item><item><title>Create an Azure NoSQL graph database</title><link>https://alisha.dev/blog/azure_nosql_graph_create/</link><pubDate>Thu, 22 Jul 2021 00:00:00 +0000</pubDate><guid>https://alisha.dev/blog/azure_nosql_graph_create/</guid><description/></item><item><title>Connect to and query an Azure SQL database</title><link>https://alisha.dev/blog/azure_sql_query/</link><pubDate>Sat, 17 Jul 2021 00:00:00 +0000</pubDate><guid>https://alisha.dev/blog/azure_sql_query/</guid><description/></item><item><title>Create an Azure SQL database</title><link>https://alisha.dev/blog/azure_sql_create/</link><pubDate>Fri, 16 Jul 2021 00:00:00 +0000</pubDate><guid>https://alisha.dev/blog/azure_sql_create/</guid><description/></item><item><title>Git Install &amp; Usage</title><link>https://alisha.dev/blog/python_git/</link><pubDate>Sun, 11 Jul 2021 00:00:00 +0000</pubDate><guid>https://alisha.dev/blog/python_git/</guid><description/></item><item><title>Python RegEx Project</title><link>https://alisha.dev/blog/python_marctxt/</link><pubDate>Sat, 10 Jul 2021 00:00:00 +0000</pubDate><guid>https://alisha.dev/blog/python_marctxt/</guid><description/></item><item><title>Python Excel Project</title><link>https://alisha.dev/blog/python_excel/</link><pubDate>Sat, 03 Jul 2021 00:00:00 +0000</pubDate><guid>https://alisha.dev/blog/python_excel/</guid><description/></item><item><title>Regular Expressions</title><link>https://alisha.dev/blog/regex_syntax/</link><pubDate>Fri, 25 Jun 2021 00:00:00 +0000</pubDate><guid>https://alisha.dev/blog/regex_syntax/</guid><description>&lt;style>
+.code {
+background-color:#404040;
+color:white;
+font-family:Consolas;
+font-size:1.1em;
+font-weight:500;
+padding:10px 10px;
+margin-bottom:20px;
+}
+.result {
+background-color:#000051;
+color:white;
+font-family:Consolas;
+font-size:1.1em;
+font-weight:500;
+padding:10px 10px;
+margin-bottom:20px;
+}
+&lt;/style></description></item><item><title>Basic Python JSON</title><link>https://alisha.dev/blog/python_json/</link><pubDate>Sun, 20 Jun 2021 00:00:00 +0000</pubDate><guid>https://alisha.dev/blog/python_json/</guid><description>&lt;style>
+.code {
+background-color:#404040;
+color:white;
+font-family:Consolas;
+font-size:1.1em;
+font-weight:500;
+padding:10px 10px;
+margin-bottom:20px;
+}
+.result {
+background-color:#000051;
+color:white;
+font-family:Consolas;
+font-size:1.1em;
+font-weight:500;
+padding:10px 10px;
+margin-bottom:20px;
+}
+&lt;/style></description></item><item><title>Python XML</title><link>https://alisha.dev/blog/python_xml/</link><pubDate>Sat, 19 Jun 2021 00:00:00 +0000</pubDate><guid>https://alisha.dev/blog/python_xml/</guid><description>&lt;style>
+.code {
+background-color:#404040;
+color:white;
+font-family:Consolas;
+font-size:1.1em;
+font-weight:500;
+padding:10px 10px;
+margin-bottom:20px;
+}
+.result {
+background-color:#000051;
+color:white;
+font-family:Consolas;
+font-size:1.1em;
+font-weight:500;
+padding:10px 10px;
+margin-bottom:20px;
+}
+&lt;/style></description></item><item><title>Basic Python Files</title><link>https://alisha.dev/blog/python_files/</link><pubDate>Fri, 18 Jun 2021 00:00:00 +0000</pubDate><guid>https://alisha.dev/blog/python_files/</guid><description>&lt;style>
+.code {
+background-color:#404040;
+color:white;
+font-family:Consolas;
+font-size:1.1em;
+font-weight:500;
+padding:10px 10px;
+margin-bottom:20px;
+}
+.result {
+background-color:#000051;
+color:white;
+font-family:Consolas;
+font-size:1.1em;
+font-weight:500;
+padding:10px 10px;
+margin-bottom:20px;
+}
+&lt;/style></description></item><item><title>Getting started with OpenRefine</title><link>https://alisha.dev/blog/install_openrefine/</link><pubDate>Mon, 07 Jun 2021 00:00:00 +0000</pubDate><guid>https://alisha.dev/blog/install_openrefine/</guid><description/></item><item><title>Basic Python Loops</title><link>https://alisha.dev/blog/python_loops/</link><pubDate>Sat, 05 Jun 2021 00:00:00 +0000</pubDate><guid>https://alisha.dev/blog/python_loops/</guid><description>&lt;style>
+.code {
+background-color:#404040;
+color:white;
+font-family:Consolas;
+font-size:1.1em;
+font-weight:500;
+padding:10px 10px;
+margin-bottom:20px;
+}
+.result {
+background-color:#000051;
+color:white;
+font-family:Consolas;
+font-size:1.1em;
+font-weight:500;
+padding:10px 10px;
+margin-bottom:20px;
+}
+&lt;/style></description></item><item><title>Basic Python Lists, Tuples, Sets</title><link>https://alisha.dev/blog/python_lists/</link><pubDate>Tue, 01 Jun 2021 00:00:00 +0000</pubDate><guid>https://alisha.dev/blog/python_lists/</guid><description>&lt;style>
+.code {
+background-color:#404040;
+color:white;
+font-family:Consolas;
+font-size:1.1em;
+font-weight:500;
+padding:10px 10px;
+margin-bottom:20px;
+}
+.result {
+background-color:#000051;
+color:white;
+font-family:Consolas;
+font-size:1.1em;
+font-weight:500;
+padding:10px 10px;
+margin-bottom:20px;
+}
+&lt;/style></description></item><item><title>Defining Python Functions</title><link>https://alisha.dev/blog/python_def/</link><pubDate>Fri, 28 May 2021 00:00:00 +0000</pubDate><guid>https://alisha.dev/blog/python_def/</guid><description>&lt;style>
+.code {
+background-color:#404040;
+color:white;
+font-family:Consolas;
+font-size:1.1em;
+font-weight:500;
+padding:10px 10px;
+margin-bottom:20px;
+}
+.result {
+background-color:#000051;
+color:white;
+font-family:Consolas;
+font-size:1.1em;
+font-weight:500;
+padding:10px 10px;
+margin-bottom:20px;
+}
+&lt;/style></description></item><item><title>Basic Python Strings</title><link>https://alisha.dev/blog/python_strings/</link><pubDate>Thu, 15 Apr 2021 00:00:00 +0000</pubDate><guid>https://alisha.dev/blog/python_strings/</guid><description>&lt;style>
+.code {
+background-color:#404040;
+color:white;
+font-family:Consolas;
+font-size:1.1em;
+font-weight:500;
+padding:10px 10px;
+margin-bottom:20px;
+}
+.result {
+background-color:#000051;
+color:white;
+font-family:Consolas;
+font-size:1.1em;
+font-weight:500;
+padding:10px 10px;
+margin-bottom:20px;
+}
+&lt;/style></description></item><item><title>Defining Python Variables</title><link>https://alisha.dev/blog/python_variables/</link><pubDate>Sun, 11 Apr 2021 00:00:00 +0000</pubDate><guid>https://alisha.dev/blog/python_variables/</guid><description>&lt;style>
+.code {
+background-color:#404040;
+color:white;
+font-family:Consolas;
+font-size:1.1em;
+font-weight:500;
+padding:10px 10px;
+margin-bottom:20px;
+}
+.result {
+background-color:#000051;
+color:white;
+font-family:Consolas;
+font-size:1.1em;
+font-weight:500;
+padding:10px 10px;
+margin-bottom:20px;
+}
+&lt;/style></description></item><item><title>Python Dates/Times</title><link>https://alisha.dev/blog/python_datetime/</link><pubDate>Sat, 10 Apr 2021 00:00:00 +0000</pubDate><guid>https://alisha.dev/blog/python_datetime/</guid><description>&lt;style>
+.code {
+background-color:#404040;
+color:white;
+font-family:Consolas;
+font-size:1.1em;
+font-weight:500;
+padding:10px 10px;
+margin-bottom:20px;
+}
+.result {
+background-color:#000051;
+color:white;
+font-family:Consolas;
+font-size:1.1em;
+font-weight:500;
+padding:10px 10px;
+}
+&lt;/style></description></item><item><title>Python Built-In Data Types</title><link>https://alisha.dev/blog/python_datatypes/</link><pubDate>Thu, 08 Apr 2021 00:00:00 +0000</pubDate><guid>https://alisha.dev/blog/python_datatypes/</guid><description>&lt;style>
+.code {
+background-color:#404040;
+color:white;
+font-family:Consolas;
+font-size:1.1em;
+font-weight:500;
+padding:10px 10px;
+margin-bottom:20px;
+}
+.result {
+background-color:#000051;
+color:white;
+font-family:Consolas;
+font-size:1.1em;
+font-weight:500;
+padding:10px 10px;
+margin-bottom:20px;
+}
+&lt;/style></description></item><item><title>Installing Python on Windows</title><link>https://alisha.dev/blog/install_python/</link><pubDate>Wed, 07 Apr 2021 00:00:00 +0000</pubDate><guid>https://alisha.dev/blog/install_python/</guid><description/></item><item><title>Creating a Hugo Static Site</title><link>https://alisha.dev/blog/install_hugo/</link><pubDate>Fri, 02 Apr 2021 00:00:00 +0000</pubDate><guid>https://alisha.dev/blog/install_hugo/</guid><description>&lt;p>How to create a static website using the Hugo static website generator. The instructions are geared towards Windows since that is the operating system I use the most.&lt;/p></description></item><item><title>Visual Studio Installation</title><link>https://alisha.dev/blog/python_vside/</link><pubDate>Sun, 21 Mar 2021 00:00:00 +0000</pubDate><guid>https://alisha.dev/blog/python_vside/</guid><description/></item></channel></rss>

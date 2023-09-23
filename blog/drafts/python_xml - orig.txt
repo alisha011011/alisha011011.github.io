@@ -1,0 +1,72 @@
++++
+author = ""
+title = "Basic Python lxml"
+date = "2021-06-19"
+tags = [
+    "python",
+]
+image = "images/bloglist/python_logo.png"
++++
+
+<style>
+.code {
+  background-color:#404040;
+  color:white;
+  font-family:Consolas;
+  font-size:1.1em;
+  font-weight:500;
+  padding:10px 10px;
+  margin-bottom:20px;
+}
+.result {
+  background-color:#000051;
+  color:white;
+  font-family:Consolas;
+  font-size:1.1em;
+  font-weight:500;
+  padding:10px 10px;
+  margin-bottom:20px;
+  }
+</style>
+
+<!--more-->
+
+---
+
+<br>Using the lxml Python library to parse XML 
+
+#### Install lxml on Windows 
+See the latest version of <a target='_blank' href="https://pypi.org/project/lxml/">lxml.</a>
+Open a new command prompt window.
+Type <b>pip install lxml</b>
+
+#### Use etree to transform an XML string 
+Use <b>etree.fromstring()</b> to convert an xml string to a lxml element.
+Use <b>etree.tostring()</b> to convert a lxml element back to an xml string.
+
+###### <i>Example:</i>
+
+<div class="code">
+
+from lxml import etree&nbsp;&nbsp;&nbsp;&nbsp;#import the lxml etree module.
+<br>  
+xml_string = "\<bib\>\<record\>\<booktitle\>Dark sacred night\</booktitle\>\<isbn>9780316484800\</isbn\>\<author>Connelly, Michael\</author><publication_place\>New York, NY\</publication_place\>\<publisher\>Little, Brown and Company\</publisher\>\<publication_date\>2018\</publication_date\>\</record\>\</bib\>"
+#store xml string in a variable.
+<br> 
+bibdata = etree.fromstring(xml_string)
+#parse xml string into lxml element.
+<br> 
+xmlstr = str(etree.tostring(bibdata, encoding='utf-8', xml_declaration=True, pretty_print=False))
+#parse lxml element into string. 
+<br> 
+xmlstr2 = xmlstr.lstrip('b"').rstrip('"')
+print(xmlstr2)
+#remove leading and training characters from string.
+</div>
+
+<p style="margin-top:10px">
+    	<img style="float:left;margin-bottom:10px;margin-left:5px;border:1px solid black" width="800" height="auto" src="/images/blogpage/pyresult.png" alt="XML string">
+	<p style="clear:left;margin-top:10px;">
+
+
+

@@ -1,0 +1,17 @@
+#### Convert String to Integer 
+int('114') 
+
+###### <i>Example:</i>
+
+<div class="code">
+
+int('114')
+
+
+</div>
+
+<div class="result">
+
+Hello nina, the hungry tide is ready for pickup from marsh public library.
+
+</div>
